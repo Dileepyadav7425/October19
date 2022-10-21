@@ -1,0 +1,12 @@
+.App{
+  display: block;
+  height: 250px;
+  width: 490px;
+  background-color: aqua;
+  text-align: center;
+  
+}
+input{
+  width: 460px;
+  height: 20px;
+}
